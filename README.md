@@ -1,5 +1,4 @@
-
-# 🚗 Car Damage Detection & Cost Estimation AI
+# WreckCheck AI: Vehicle Damage Analyzer 🚗 
 
 ## 📌 Overview
 This project is an AI-powered system that detects car damages from images and estimates repair costs using YOLOv8 object detection.
